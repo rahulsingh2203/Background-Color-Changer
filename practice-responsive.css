@@ -1,0 +1,15 @@
+@media only screen and (max-width:500px) {
+    #head{
+        font-size: larger;
+    }
+    ul {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: column;
+    }
+    li{
+        width: 50%;
+    }
+
+}
